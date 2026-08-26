@@ -1,0 +1,2 @@
+strategy_a,strategy_b,folds,mean_jaccard,max_jaccard,min_jaccard
+ensemble,recency,4,0.045454545454545456,0.09090909090909091,0.0

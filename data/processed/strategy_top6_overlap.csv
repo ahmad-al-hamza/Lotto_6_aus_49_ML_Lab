@@ -1,0 +1,2 @@
+strategy_a,strategy_b,folds,mean_common_numbers,max_common_numbers,min_common_numbers
+ensemble,recency,4,0.5,1,0
